@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "pihaf",
+        "projectKey": "pihaf_Simple-Chatbot-with-Streamlit"
+    }
+}
